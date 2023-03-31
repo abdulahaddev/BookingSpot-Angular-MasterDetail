@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular_MasterDetails", "Angular_MasterDetails\Angular_MasterDetails.csproj", "{D051C6F2-C683-4714-8869-671C82CD12FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D051C6F2-C683-4714-8869-671C82CD12FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D051C6F2-C683-4714-8869-671C82CD12FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D051C6F2-C683-4714-8869-671C82CD12FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D051C6F2-C683-4714-8869-671C82CD12FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29CEAF14-EE0A-4598-9FE8-519178826DBC}
+	EndGlobalSection
+EndGlobal
